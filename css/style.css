@@ -1,0 +1,10 @@
+.bg-info{
+    background-color: #fceae8 !important;
+    
+}
+.btn-primary{
+    background-color: #ff3484 !important;
+    text-decoration: none !important;
+    border-color: #ff3484;
+    border-radius: 10px;
+}
